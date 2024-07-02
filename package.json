@@ -1,0 +1,9 @@
+{
+  "name": "typescript",
+  "version": "0.0.0",
+  "private": true,
+  "dependencies": {
+    "iso8601-duration": "2.1.2",
+    "uuid": "^10.0.0"
+  }
+}
